@@ -27,7 +27,7 @@
 
     // The text that appears on the upper part of the dialog box when
     // entering links.
-    var linkDialogText = "<p>http://example.com/ \"optional title\"</p>";
+    var linkDialogText = "<p>http://example.com/ \"title\"</p>";
     var imageDialogText = "<p>http://example.com/images/diagram.jpg \"optional title\"</p>";
 
     // The default text that appears in the dialog input box when entering
